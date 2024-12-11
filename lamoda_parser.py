@@ -3,7 +3,7 @@ import sqlite3
 import requests
 from bs4 import BeautifulSoup
 from PyQt5.QtWidgets import (
-    QApplication, QMainWindow, QVBoxLayout, QWidget, QLineEdit, QPushButton, QTextEdit, QLabel, QHBoxLayout
+    QApplication, QMainWindow, QVBoxLayout, QWidget, QLineEdit, QPushButton, QTextEdit, QLabel
 )
 
 
@@ -12,6 +12,8 @@ CARD_CLASS = "x-product-card__card"
 NAME_CLASS = "x-product-card-description__product-name"
 PRICE_CLASS = "x-product-card-description__price-WEB8507_price_no_bold"
 LINK_CLASS = "x-product-card__link"
+
+SOSTAV_CLASS = "x-product-card-description__brand-name"  # Класс для состава или бренда
 
 # Парсинг страницы и сохранение в базу
 def parse_and_save(url, db_path="products.db"):
@@ -22,6 +24,7 @@ def parse_and_save(url, db_path="products.db"):
     conn = sqlite3.connect(db_path)
     cursor = conn.cursor()
     cursor.execute("DROP TABLE IF EXISTS products")
+    cursor.execute("DROP TABLE IF EXISTS about")
     cursor.execute("""
         CREATE TABLE products (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -31,14 +34,27 @@ def parse_and_save(url, db_path="products.db"):
         )
     """)
 
+    cursor.execute("""
+        CREATE TABLE about (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            name_about TEXT
+        )
+    """)
+
     # Поиск карточек товаров
     products = soup.find_all("div", class_=CARD_CLASS)
+    abouts = soup.find_all("div", class_=SOSTAV_CLASS)
+
     for product in products:
         name = product.find("div", class_=NAME_CLASS).get_text(strip=True)
         price_text = product.find("span", class_=PRICE_CLASS).get_text(strip=True)
         price = int("".join(filter(str.isdigit, price_text)))
         link = "https://www.lamoda.ru" + product.find("a", class_=LINK_CLASS).get("href")
         cursor.execute("INSERT INTO products (name, price, link) VALUES (?, ?, ?)", (name, price, link))
+
+    for about in abouts:
+        name_about = about.get_text(strip=True)  # Используем get_text для извлечения текста
+        cursor.execute("INSERT INTO about (name_about) VALUES (?)", (name_about,))
 
     conn.commit()
     conn.close()
@@ -51,6 +67,15 @@ def get_cheapest_product(db_path="products.db"):
     product = cursor.fetchone()
     conn.close()
     return product
+
+# Получение информации о составе
+def get_about_info(db_path="products.db"):
+    conn = sqlite3.connect(db_path)
+    cursor = conn.cursor()
+    cursor.execute("SELECT name_about FROM about")
+    about_info = cursor.fetchall()  # Получаем все строки
+    conn.close()
+    return about_info
 
 # Интерфейс приложения
 class MainWindow(QMainWindow):
@@ -93,9 +118,18 @@ class MainWindow(QMainWindow):
             # Парсинг и анализ
             parse_and_save(url)
             cheapest = get_cheapest_product()
+            about_info = get_about_info()  # Получаем информацию о составе товаров
             if cheapest:
                 name, price, link = cheapest
-                self.result_view.setText(f"Самый дешевый товар:\n\nНазвание: {name}\nЦена: {price} ₽\nСсылка: {link}")
+                result = f"Самый дешевый товар:\n\nНазвание: {name}\nЦена: {price} ₽\nСсылка: {link}\n\n"
+
+                # Вывод состава (если есть)
+                if about_info:
+                    result += f"Состав:\n" + "\n".join([info[0] for info in about_info])  # Выводим все составы
+                else:
+                    result += "Состав не указан."
+
+                self.result_view.setText(result)
             else:
                 self.result_view.setText("Нет данных для отображения.")
         except Exception as e:

@@ -1,0 +1,6 @@
+Package Version
+------------------------- --------
+PyQt5==5.15.11
+beautifulsoup4==4.12.3
+bs4==0.0.2
+requests==2.32.3
