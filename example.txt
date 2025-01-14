@@ -1,0 +1,1303 @@
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- GO-GO-GO! ;-) --><!DOCTYPE html>
+<html
+  prefix="og: https//ogp.me/ns#"
+  class="country-ru"
+  lang="ru"
+>
+  <head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="referrer" content="unsafe-url"><meta name="theme-color" content="#222"><link rel="dns-prefetch" href="//a.lmcdn.ru"><link rel="dns-prefetch" href="//z.lmcdn.ru"><link rel="dns-prefetch" href="//www.gstatic.com"><link rel="dns-prefetch" href="https://fcm.googleapis.com"><link rel="apple-touch-icon" href="//a.lmcdn.ru/static/permanent/icons/v3/apple-touch-icon-120x120.png"><link rel="icon" href="//a.lmcdn.ru/static/permanent/icons/v3/favicon.ico" type="image/x-icon"><title>Футболка Zolla, цвет: синий, MP002XM0BAM4 — купить в интернет-магазине Lamoda</title><meta name="description" content="Футболка Zolla, MP002XM0BAM4 — цвет: синий, коллекция: Осень-зима 2024/2025.БЕСПЛАТНАЯ доставка по России!"><meta property="og:description" content="Футболка Zolla, MP002XM0BAM4 — цвет: синий, коллекция: Осень-зима 2024/2025.БЕСПЛАТНАЯ доставка по России!"><meta property="og:image" content="https://a.lmcdn.ru/product/M/P/MP002XM0BAM4_24067552_1_v1_2x.jpg"><meta property="og:image:type" content="image/png"><meta property="og:site_name" content="Lamoda.ru"><meta property="og:title" content="Футболка Zolla, цвет: синий, MP002XM0BAM4 — купить в интернет-магазине Lamoda"><meta property="og:type" content="product"><meta property="og:url" content="https://www.lamoda.ru/p/mp002xm0bam4/clothes-zolla-futbolka/"><link rel="canonical" href="https://www.lamoda.ru/p/mp002xm0bam4/clothes-zolla-futbolka/"><link rel="alternate" hreflang="ru-by" href="https://www.lamoda.by/p/mp002xm0bam4/clothes-zolla-futbolka/"><link rel="alternate" hreflang="ru-kz" href="https://www.lamoda.kz/p/mp002xm0bam4/clothes-zolla-futbolka/"><link rel="alternate" hreflang="ru-ru" href="https://www.lamoda.ru/p/mp002xm0bam4/clothes-zolla-futbolka/"><link rel="alternate" hreflang="ru-ua" href="https://www.lamoda.ua/p/mp002xm0bam4/clothes-zolla-futbolka/"><link rel="alternate" href="android-app://com.lamoda.lite/lamoda/ru/d/MP002XM0BAM4/?utm_source=app_indexing"><link rel="stylesheet" href="//a.lmcdn.ru/static/25.01.13/core.css"><link rel="stylesheet" href="//a.lmcdn.ru/static/25.01.13/skeletons.css"><link rel="stylesheet" href="//a.lmcdn.ru/static/25.01.13/main.css"><script>
+var repeatCounter, prevValueToSend, sendTimeoutId;
+window.onerror = function(msg, url, line, column, oErr){
+    var valueToSend, i, args = ['msg=','url=','stk='];
+
+    url += ':' + line;
+    if(parseInt(column) >= 0){
+        url += ':' + column;
+    }
+    valueToSend = [msg, url, oErr && oErr.stack ? oErr.stack : ''];
+    for(i =  args.length; i--;){
+        args[i] += encodeURIComponent(valueToSend[i]);
+    }
+    valueToSend = ('//z.lmcdn.ru/site/error/js/' + location.hostname + '/' + args.join('&')).slice(0, 2000);
+    /*.
+        
+        
+    */
+    if(prevValueToSend !== valueToSend){
+        prevValueToSend = valueToSend;
+        repeatCounter = 0;
+        (new Image).src = valueToSend;
+        sendTimeoutId = null;
+    } else if (repeatCounter < 5){
+        repeatCounter++;
+        clearTimeout(sendTimeoutId);
+        sendTimeoutId = setTimeout(function(){
+            (new Image).src = valueToSend + '&rep=' + repeatCounter;
+        },100);
+    }
+};
+
+try{
+    if (document.location.pathname.indexOf('/paymentassist/') === 0 &&
+        self.parent.document.location.pathname === '/checkout/cart/') {
+        (new Image).src = '//z.lmcdn.ru/site/error/iframe/' + location.hostname + '/?' + [
+            'rf=' + encodeURIComponent(document.referrer),
+            'to=' + encodeURIComponent(location),
+            'msg=bad_success_in_iframe'
+        ].join('&');
+    }
+}catch(e){};
+</script><script>
+    window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);
+;NREUM.info={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",licenseKey:"d9c7f18912",applicationID:"114144954",sa:1}</script><script>
+    var LMDA = {
+        uidAny: 'A002406499878667BB2991230237B671',
+        traceId: "5d71aa54a2a07e9839c73a2124450cde",
+    };
+</script><script type="text/javascript">
+  (function(){
+    const pathname = window.location.pathname;
+    const tp = (segment, position = 1) => (
+      segment === pathname.split('/')[position]
+    );
+    var pageType = 'other_page';
+    switch (true) {
+      case tp(''):
+        pageType = 'main_page';
+        break;
+      case tp('p'):
+        pageType = 'product_page';
+        break;
+      case tp('a'):
+      case tp('b'):
+      case tp('bg'):
+      case tp('c'):
+      case tp('cb'):
+      case tp('cs'):
+      case tp('sp'):
+      case tp('action'):
+      case tp('lastinstock'):
+      case tp('novinki'):
+      case tp('outlet'):
+        pageType = 'catalog_page';
+        break;
+      case tp('catalog-navigation'):
+        pageType = 'catalog_navigation_page';
+        break;
+      case tp('catalogsearch') && tp('result', 2):
+        pageType = 'search_page';
+        break;
+      case tp('wishlist') && tp('shared', 2):
+        pageType = 'shared_page';
+        break;
+      case tp('wishlist') && tp('filters', 2):
+        pageType = 'my_filter_page';
+        break;
+      case tp('wishlist'):
+        pageType = 'wishlist_page';
+        break;
+      case tp('kids-home'):
+      case tp('home-app-kids'):
+        pageType = 'kidshome_page';
+        break;
+      case tp('men-home'):
+      case tp('home-app-men'):
+      case tp('bestactions') && tp('men', 2):
+        pageType = 'menhome_page';
+        break;
+      case tp('women-home'):
+      case tp('home-app-women'):
+      case tp('bestactions') && tp('women', 2):
+        pageType = 'womenhome_page';
+        break;
+      case tp('home-premium'):
+        pageType = 'premium_page';
+        break;
+      case tp('home-premium-women'):
+        pageType = 'premium-women_page';
+        break;
+      case tp('home-premium-men'):
+        pageType = 'remium-men_page';
+        break;
+      case tp('home-premium-kids'):
+        pageType = 'premium-kids_page';
+        break;
+      case tp('home-sport'):
+        pageType = 'sport_page';
+        break;
+      case tp('home-sport-women'):
+        pageType = 'sport-women_page';
+        break;
+      case tp('home-sport-men'):
+        pageType = 'sport-men_page';
+        break;
+      case tp('home-sport-kids'):
+        pageType = 'sport-kids_page';
+        break;
+      case tp('home-beauty'):
+        pageType = 'beauty_page';
+        break;
+      case tp('home-beauty-women'):
+        pageType = 'beauty-women_page';
+        break;
+      case tp('home-beauty-men'):
+        pageType = 'beauty-men_page';
+        break;
+      case tp('home-beauty-kids'):
+        pageType = 'beauty-kids_page';
+        break;
+      case tp('checkout') && tp('cart', 2):
+      case tp('checkout'):
+        pageType = 'cart_page';
+        break;
+      case tp('login'):
+        pageType = 'login_page';
+        break;
+      case tp('success', 3):
+        pageType = 'success_page';
+        break;
+      case tp('blog'):
+        pageType = 'blog_page';
+        break;
+      case tp('lp') && tp('success_garderob', 2):
+        pageType = 'stylist_success_page';
+        break;
+      case tp('lp') && tp('error_garderob', 2):
+        pageType = 'stylist_failure_page';
+        break;
+      case tp('lp'):
+        pageType = 'lp_page';
+        break;
+      case tp('ed'):
+        pageType = 'ed_page';
+        break;
+      case tp('customer') && tp('account', 2) && tp('reviews', 3):
+        pageType = 'customer_reviews_page';
+        break;
+      case tp('customer') && tp('account', 2) && tp('questions', 3):
+        pageType = 'customer_questions_page';
+        break;
+      case tp('customer') && tp('account', 2) && tp('loyalty_program', 3):
+        pageType = 'loyalty_page';
+        break;
+      case tp('customer') && tp('account', 2) && tp('cashback', 3) && tp('history', 4):
+        pageType = 'cashback_history_page';
+        break;
+      case tp('customer') && tp('account', 2) && tp('cashback', 3):
+        pageType = 'cashback_page';
+        break;
+      case tp('customer') && tp('account', 2) && tp('menu', 3):
+        pageType = 'customer_menu_page';
+        break;
+      case tp('customer') && tp('account', 2) && tp('returns', 3) && tp('return', 4):
+        pageType = 'return_view_page';
+        break;
+      case tp('customer') && tp('account', 2) && tp('returns', 3):
+        pageType = 'return_page';
+        break;
+      case tp('customer') && tp('return', 2) && tp('order', 3):
+        pageType = 'order_return_page';
+        break;
+      case tp('customer') && tp('account', 2):
+        pageType = 'personal_page';
+        break;
+      case tp('sales') && tp('order', 2) && tp('view', 3):
+        pageType = 'order_view_page';
+        break;
+      case tp('sales') && (tp('current', 2) || tp('order', 2)):
+        pageType = 'order_history_page';
+        break;
+      case tp('help', 1) && tp('easy-return', 2):
+        pageType = 'return_help_page';
+        break;
+      case tp('help'):
+        pageType = 'help_page';
+        break;
+      case tp('paymentform'):
+        pageType = 'payment_form_page';
+        break;
+      case tp('giftcertificate'):
+        pageType = 'giftcertificate_page';
+        break;
+      case tp('looks'):
+        pageType = 'get_the_look_page';
+        break;
+      case tp('lamodastylist') && tp('survey', 2):
+        pageType = 'stylist_survey_page';
+        break;
+      case tp('lamodastylist') && tp('payment', 2):
+        pageType = 'stylist_payment_page';
+        break;
+      case tp('lamodastylist'):
+        pageType = 'stylist_landing_page';
+        break;
+      case tp('stylistsurvey') && tp('payment', 2):
+        pageType = 'stylist_payment_page';
+        break;
+      case tp('stylistsurvey'):
+        pageType = 'stylist_landing_page';
+        break;
+      case tp('discovery-women'):
+        pageType = 'discovery_hub_women_page';
+        break;
+      case tp('discovery-men'):
+        pageType = 'discovery_hub_men_page';
+        break;
+      case tp('installments'):
+        pageType = 'installments_page';
+        break;
+      case tp('instashopping'):
+        pageType = 'instashopping_page';
+        break;
+      case tp('just4you'):
+        pageType = 'just4you_page';
+        break;
+      case tp('delivery'):
+        pageType = 'delivery_page';
+        break;
+      default:
+        pageType = 'other_page';
+    }
+
+    
+    try {
+        var adBlocker;
+        var adScript = document.createElement('script');
+        adScript.async = true;
+        adScript.src = "//a.lmcdn.ru/static/permanent/libs/ad-blocker.js"
+        var a = document.getElementsByTagName('script')[0];
+        a.parentNode.insertBefore(adScript, a);
+        adScript.onload = function() { adBlocker = '0' };
+        adScript.onerror = function() { adBlocker = '1' };
+        window.addEventListener("load", function(event) { 
+          if (adBlocker) {
+            window.document.cookie = "lmda_adBlocker=" + adBlocker + "; path=/";
+          }
+        });
+    } catch (error) {
+      console.error(error);
+    }
+    
+
+    var splitBuckets = 'v3-118-09-00-022269-102281-102294-042303-092304-112311-062317-032318-032325-092329-022330-092331-052334-102348-032352-022360-032361-122362-122364-112365-082366-062367-012368-032369-032370';
+    var ab = '4779,4813,4840,4854,4673,4836';
+    var cid = '' || 0;
+    var pageOpen = {
+      action: 'pageopen',
+      type: pageType,
+      lid: 'A002406499878667BB2991230237B671',
+      ab: ab,
+      ab_experiments: ab,
+      ab_error: splitBuckets ? 0 : 1,
+      customer_id: cid,
+      auth_customer_id: cid,
+      split_buckets: splitBuckets,
+      referrer: document.referrer,
+      request_lid: 'A002406499878667BB2991230237B671',
+      url: window.location.href,
+      is_webview: 0,
+      isPWA: Number((window.matchMedia && window.matchMedia('(display-mode: standalone)').matches) ||
+          !!(navigator && navigator.standalone)),
+      platform: 'go',adblock: '',version: '1.0.0',
+      release: '25.01.13',
+      timestamp: 1736869785
+    };
+    var params = [];
+    for (var prop in pageOpen) {
+    if (pageOpen.hasOwnProperty(prop)) {
+        params.push(prop + '=' + encodeURIComponent(pageOpen[prop]));
+    }
+    }
+    (new Image).src = '//z.lmcdn.ru/ru/desktop?' + params.join('&');
+    })();
+</script><script>
+  window.dataLayer = window.dataLayer || [];
+  window.dataLayer.push({
+    event: 'gtm.js',
+    'gtm.start': new Date().getTime(),
+  });
+  window._mtm = window._mtm || [];
+</script><script async src="https://www.googletagmanager.com/gtm.js?id=GTM-WV4K8C&l=dataLayer"></script><!-- ru_hotfix_slot --><style>
+.rev__node_review {
+  overflow: hidden!important;
+}
+.pup-promo-tip {
+  display: none;
+}
+.dropup-item_feedback .js-help-center-feedback {
+    display: none;
+}
+</style></head><body class="call_delay desktop "><div id="vue-root"><div class="page default-page"><x-header><header class="d-header">
+    <div
+      class="d-header-top
+        d-header-top_black"
+      ></div><div class="d-header-logo-row width-wrapper"><a class="d-header__logo" href="/"><svg xmlns="http://www.w3.org/2000/svg" width="80" height="16" viewBox="0 0 80 16"><g fill="none" fill-rule="nonzero"><path fill="#222" d="M36.266 13.974h2.873V8.03c0-3.14-2.003-4.807-4.413-4.807-1.595 0-2.8.692-3.668 1.65h-.39c-.655-.852-1.789-1.65-3.472-1.65-1.527 0-2.747.674-3.385 1.455h-.39V3.525h-2.676v10.449H23.6V8.51c0-1.864.55-2.502 2.463-2.502s2.444.638 2.444 2.502v5.463h2.874V8.51c0-1.864.531-2.502 2.445-2.502 1.915 0 2.445.638 2.445 2.502l-.004 5.463zM9.3 12.478c-.513-.372-.744-.922-.744-1.755 0-1.047.32-2.337.851-2.892.372-.373.903-.55 1.63-.55 1.028 0 2.286.27 2.817.816.355.355.515.851.515 1.543 0 .994-.284 2.395-.905 2.98-.354.32-.832.461-1.505.461-.92 0-2.076-.214-2.659-.603zm4.52 2.2l-.125.958 2.674.33 1.267-10.353-2.673-.329-.125 1.004h-.309c-.4-.709-1.472-1.668-3.492-1.668-2.817 0-4.89 2.076-5.263 4.913a6.892 6.892 0 0 0-.053.835c0 2.713 1.843 4.949 4.713 5.268.16.015.319.02.479.018 1.205 0 2.109-.514 2.57-.975h.336zm60.49-3.064c-2.144 0-2.853-.709-2.853-2.855 0-2.147.71-2.877 2.853-2.877 2.144 0 2.853.727 2.853 2.877 0 2.149-.709 2.855-2.853 2.855zm-13.75 0c-2.145 0-2.853-.709-2.853-2.855 0-2.147.708-2.877 2.852-2.877s2.854.727 2.854 2.877c0 2.149-.71 2.855-2.854 2.855zm-13.397 0c-2.143 0-2.852-.709-2.852-2.855 0-2.147.709-2.877 2.852-2.877s2.854.727 2.854 2.877c0 2.149-.71 2.855-2.854 2.855zM1.742 0L0 13.953l2.844.347L4.558.346 1.742 0zm75.545 12.963v1.01h2.675V3.526h-2.675v1.012h-.39c-.426-.568-1.506-1.313-2.963-1.313-3.19 0-5.368 2.427-5.368 5.535 0 3.107 2.179 5.517 5.368 5.517 1.454 0 2.534-.745 2.963-1.313h.39zM47.163 3.224c-3.544 0-5.74 2.427-5.74 5.535 0 3.107 2.196 5.517 5.74 5.517s5.747-2.413 5.747-5.517c0-3.105-2.198-5.535-5.747-5.535zm16.409 9.739v1.01h2.675V.12h-2.834v4.417h-.39c-.425-.568-1.383-1.313-2.835-1.313-3.19 0-5.37 2.427-5.37 5.535 0 3.107 2.18 5.517 5.37 5.517 1.452 0 2.586-.745 2.994-1.313h.39z"/></g></svg></a>
+      <div
+  class="user-nav">
+  
+    <span class="link user-nav__link user-nav__link-login user-nav__link-disable">Войти</span><div class="user-nav__cart"><svg width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M18.5 2.5h-13L3.747 18.28a2 2 0 0 0 1.988 2.22h12.53a2 2 0 0 0 1.988-2.22L18.5 2.5z" stroke="#000"/><path d="M15.5 9a3.5 3.5 0 1 1-7 0m0-2V5m7 2V5" stroke="#000"/></svg><a href="/checkout/cart/" class="link user-nav__link user-nav__link-cart" rel="nofollow">Корзина</a></div></div><div class="d-header-genders ">
+  <a href="/women-home/?sitelink=topmenuW"
+    data-genders="women"
+    class="d-header-genders_link "
+  >Женщинам</a>
+  <a href="/men-home/?sitelink=topmenuM"
+    data-genders="men"
+    class="d-header-genders_link d-header-genders_link_active"
+  >Мужчинам</a>
+  <a href="/kids-home/?sitelink=topmenuK"
+    data-genders="children"
+    class="d-header-genders_link "
+  >Детям</a></div></div><div class="d-header-menu"><div class="d-header-menu__container">
+        <div class="menu__categories
+          top-menu_discovery">
+          <div class="d-header-top-menu-wrapper"><nav class="d-header-topmenu">
+  
+    
+    
+
+  
+  
+
+  
+
+  
+  
+    
+  
+  
+    
+  
+  
+
+  
+
+  
+    
+    
+    
+    
+
+    
+      <a class="d-header-topmenu-category__link
+        
+          d-header-topmenu-category__link_discovery
+        
+        
+        
+        
+          dense
+        "
+        href="/discovery-men/?l=1&amp;sitelink=topmenuM"
+      >
+        Идеи
+      </a>
+    
+  
+    
+    
+    
+    
+
+    
+      <a class="d-header-topmenu-category__link
+        
+          d-header-topmenu-category__link_randomColor
+        
+        
+        
+        
+          dense
+        "
+        href="/c/4152/default-men/?is_new=1&amp;l=2&amp;sitelink=topmenuM"
+      >
+        Новинки
+      </a>
+    
+  
+    
+    
+    
+    
+
+    
+      <a class="d-header-topmenu-category__link
+        
+        
+        
+        
+          dense
+        "
+        href="/c/477/clothes-muzhskaya-odezhda/?l=3&amp;sitelink=topmenuM"
+      >
+        Одежда
+      </a>
+    
+  
+    
+    
+    
+    
+
+    
+      <a class="d-header-topmenu-category__link
+        
+        
+        
+        
+          dense
+        "
+        href="/c/17/shoes-men/?l=4&amp;sitelink=topmenuM"
+      >
+        Обувь
+      </a>
+    
+  
+    
+    
+    
+    
+
+    
+      <a class="d-header-topmenu-category__link
+        
+        
+        
+        
+          dense
+        "
+        href="/c/559/accs-muzhskieaksessuary/?l=5&amp;sitelink=topmenuM"
+      >
+        Аксессуары
+      </a>
+    
+  
+    
+    
+    
+    
+
+    
+      <a class="d-header-topmenu-category__link
+        
+          d-header-topmenu-category__link_brands_mass_market
+        
+        
+        
+        
+          dense
+        "
+        href="/brands/?l=6&amp;sitelink=topmenuM"
+      >
+        Бренды
+      </a>
+    
+  
+    
+    
+    
+    
+
+    
+      <a class="d-header-topmenu-category__link
+        
+          d-header-topmenu-category__link_premium_mass_market
+        
+        
+        
+        
+          dense
+        "
+        href="/home-premium-men/?l=7&amp;sitelink=topmenuM"
+      >
+        Premium
+      </a>
+    
+  
+    
+    
+    
+    
+
+    
+      <a class="d-header-topmenu-category__link
+        
+        
+        
+        
+          dense
+        "
+        href="/home-sport-men/?l=8&amp;sitelink=topmenuM"
+      >
+        Спорт
+      </a>
+    
+  
+    
+    
+    
+    
+
+    
+      <a class="d-header-topmenu-category__link
+        
+        
+        
+        
+          dense
+        "
+        href="/c/4152/default-men/?display_locations=resale&amp;l=9&amp;sitelink=topmenuM"
+      >
+        Resale
+      </a>
+    
+  
+    
+    
+    
+    
+
+    
+      <a class="d-header-topmenu-category__link
+        
+        
+        
+        
+          dense
+        "
+        href="/c/4288/beauty_accs_ns-menbeauty/?l=10&amp;sitelink=topmenuM"
+      >
+        Красота
+      </a>
+    
+  
+    
+    
+    
+    
+
+    
+      <a class="d-header-topmenu-category__link
+        
+        
+        
+        
+          dense
+        "
+        href="/c/6647/home_accs-tovarydlyadoma/?l=11&amp;sitelink=topmenuM"
+      >
+        Дом
+      </a>
+    
+  
+    
+    
+    
+    
+
+    
+      <a class="d-header-topmenu-category__link
+        
+          d-header-topmenu-category__link_red
+        
+        
+        
+        
+          dense
+        "
+        href="/c/4152/default-men/?display_locations=outlet&amp;is_sale=1&amp;l=12&amp;sitelink=topmenuM"
+      >
+        Sale%
+      </a></nav></div></div></div></div></header></x-header>
+        
+      
+
+      
+
+      
+  
+    <main class="
+        width-wrapper
+      ">
+      
+  
+    <x-banner type="top_promobar"></x-banner><!-- top_promobar --><div>
+    
+  <div
+    class="x-breadcrumbs"
+    id="breadcrumbs"
+  >
+    <div class="x-breadcrumbs__slide">
+      <a
+        class="x-link x-link__secondaryLabel"
+        rel="nofollow"
+        title="Главная"
+        href="/"
+      >
+        Главная
+      </a></div><div class="x-breadcrumbs__slide">
+        
+          <a
+            class="x-link x-link__secondaryLabel"
+            title="Мужчинам"
+            href="/c/4152/default-men/"
+          >
+            Мужчинам
+          </a></div><div class="x-breadcrumbs__slide">
+        
+          <a
+            class="x-link x-link__secondaryLabel"
+            title="Одежда"
+            href="/c/477/clothes-muzhskaya-odezhda/"
+          >
+            Одежда
+          </a></div><div class="x-breadcrumbs__slide">
+        
+          <a
+            class="x-link x-link__secondaryLabel"
+            title="Футболки и поло"
+            href="/c/2512/clothes-muzhskie-futbolki/"
+          >
+            Футболки и поло
+          </a></div><div class="x-breadcrumbs__slide">
+        
+          <a
+            class="x-link x-link__secondaryLabel"
+            title="Футболки с коротким рукавом"
+            href="/c/2513/clothes-muz-futbolki-s-korotkim/"
+          >
+            Футболки с коротким рукавом
+          </a></div></div><div class="x-premium-product-page__grid"><div class="x-premium-product-gallery x-premium-product-page__gallery"><div class="x-premium-product-gallery__grid "><div class="x-premium-product-gallery__cell ">
+              <img
+                src="//a.lmcdn.ru/img600x866/M/P/MP002XM0BAM4_24067552_1_v1_2x.jpg"
+                alt=""
+                class="x-premium-product-gallery__image"
+              />
+            </div><div class="x-premium-product-gallery__cell ">
+              <img
+                src="//a.lmcdn.ru/img600x866/M/P/MP002XM0BAM4_24067553_2_v1_2x.jpg"
+                alt=""
+                class="x-premium-product-gallery__image"
+              />
+            </div></div></div><div class="x-premium-product-page__aside"><div class="x-premium-product-page__sticky"><a class="product-rating product-rating__size_16" style="margin-bottom: 10px;"><div class="product-rating__stars"><div class="product-rating__stars-inner" style="width:98.000000%"><div class="product-rating__stars-fill"></div></div></div><div class="product-rating__count">17</div></a><h1 class="x-premium-product-title x-premium-product-page__title"><a href="" class="x-premium-product-title__link"><span class="x-premium-product-title__brand-name" title="">Zolla
+        </span></a><div class="x-premium-product-title__model-name">Футболка </div></h1><div class="x-premium-product-page__prices-info"><div class="x-premium-product-prices x-premium-product-page__prices"><span class="x-premium-product-prices__price " content="1299.000000">1 299</span><span class="x-premium-product-prices__price " content="599.000000">599 ₽</span></div></div><div class="d-premium-sizes-chooser-skeleton x-premium-product-page__sizes"><div class="d-premium-sizes-chooser-skeleton__wrapper"><div class="d-premium-sizes-chooser-skeleton__placeholder">Выберите размер</div><div class="d-premium-sizes-chooser-skeleton__arrow"></div></div><a class="d-premium-sizes-chooser-skeleton__table-link">Таблица размеров</a></div><div class="x-premium-add-to-cart-skeleton x-premium-product-page__add-to-cart">
+    <button
+      class="x-premium-add-to-cart-skeleton__cart-button x-button x-button_primaryPremium x-button_48"
+      
+    >
+      Добавить в корзину
+    </button><div class="x-premium-add-to-cart-skeleton__wish-button" style="width: 48px; height: 48px;"></div></div></div></div><div id="rev" class="x-tabs-default"><div class="x-tabs-default__header--1vmRR">
+   
+     <span class="
+        x-tabs-default__title
+         x-tabs-default__active 
+         x-tabs-default__border 
+        
+         x-tabs-default__headLine 
+       "
+     >
+       О товаре 
+     </span>
+   
+
+   
+     <span class="
+        x-tabs-default__title
+        
+        
+        
+         x-tabs-default__headLine 
+       "
+     >
+       Отзывы 
+     </span>
+   
+
+   
+     <span class="
+        x-tabs-default__title
+        
+        
+        
+         x-tabs-default__headLine 
+       "
+     >
+       Вопросы 
+     </span></div><div class="x-premium-product-description x-premium-product-page__description"><div><div><p class="x-premium-product-description-attribute"><span class="x-premium-product-description-attribute__title"><span class="x-premium-product-description-attribute__name">Вырез/воротник</span><span class="x-premium-product-description-attribute__dots">. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</span></span><span class="x-premium-product-description-attribute__value">круглый вырез</span></p><p class="x-premium-product-description-attribute"><span class="x-premium-product-description-attribute__title"><span class="x-premium-product-description-attribute__name">Состав, %</span><span class="x-premium-product-description-attribute__dots">. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</span></span><span class="x-premium-product-description-attribute__value">Хлопок - 95%, Эластан - 5%</span></p><p class="x-premium-product-description-attribute"><span class="x-premium-product-description-attribute__title"><span class="x-premium-product-description-attribute__name">Сезон</span><span class="x-premium-product-description-attribute__dots">. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</span></span><span class="x-premium-product-description-attribute__value">мульти</span></p><p class="x-premium-product-description-attribute"><span class="x-premium-product-description-attribute__title"><span class="x-premium-product-description-attribute__name">Размер товара на модели</span><span class="x-premium-product-description-attribute__dots">. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</span></span><span class="x-premium-product-description-attribute__value">M INT</span></p><p class="x-premium-product-description-attribute"><span class="x-premium-product-description-attribute__title"><span class="x-premium-product-description-attribute__name">Длина</span><span class="x-premium-product-description-attribute__dots">. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</span></span><span class="x-premium-product-description-attribute__value">66 см (M INT)</span></p><p class="x-premium-product-description-attribute"><span class="x-premium-product-description-attribute__title"><span class="x-premium-product-description-attribute__name">Длина рукава</span><span class="x-premium-product-description-attribute__dots">. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</span></span><span class="x-premium-product-description-attribute__value">20 см (M INT)</span></p><p class="x-premium-product-description-attribute"><span class="x-premium-product-description-attribute__title"><span class="x-premium-product-description-attribute__name">Параметры модели</span><span class="x-premium-product-description-attribute__dots">. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</span></span><span class="x-premium-product-description-attribute__value">100-75-94</span></p><p class="x-premium-product-description-attribute"><span class="x-premium-product-description-attribute__title"><span class="x-premium-product-description-attribute__name">Рост модели на фото</span><span class="x-premium-product-description-attribute__dots">. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</span></span><span class="x-premium-product-description-attribute__value">181 см</span></p><p class="x-premium-product-description-attribute"><span class="x-premium-product-description-attribute__title"><span class="x-premium-product-description-attribute__name">Артикул</span><span class="x-premium-product-description-attribute__dots">. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</span></span><span class="x-premium-product-description-attribute__value">MP002XM0BAM4</span></p></div><span class="x-premium-product-description__link">Подробнее</span><div><p class="x-premium-product-description__guarantee-link"><span class="x-premium-product-description__link">Только оригинальные бренды</span></p></div></div><div class="x-premium-product-description__image"></div></div></div><div class="x-premium-product-page__recommendations"><div class="x-premium-product-links x-premium-product-page__product-links">
+    
+      <a
+        href="/cb/2513-31272/clothes-muz-futbolki-s-korotkim/"
+        class="x-link x-link__label x-link__underline x-premium-product-links__link"
+     >
+        <div class="x-premium-product-links__image"></div><div class="x-premium-product-links__data"><div class="x-premium-product-links__title">
+            
+              Все Футболки с коротким рукавом Zolla
+            
+          </div><div class="x-premium-product-links__description">
+            
+              Бренд и категория
+            
+          </div></div></a>
+    
+      <a
+        href="/b/31272/brand-zolla/"
+        class="x-link x-link__label x-link__underline x-premium-product-links__link"
+     >
+        <div class="x-premium-product-links__image"></div><div class="x-premium-product-links__data"><div class="x-premium-product-links__title">
+            
+              Другие товары Zolla
+            
+          </div><div class="x-premium-product-links__description">
+            
+              Бренд
+            
+          </div></div></a>
+    
+      <a
+        href="/c/2513/clothes-muz-futbolki-s-korotkim/"
+        class="x-link x-link__label x-link__underline x-premium-product-links__link"
+     >
+        <div class="x-premium-product-links__image"></div><div class="x-premium-product-links__data"><div class="x-premium-product-links__title">
+            
+              Все Футболки с коротким рукавом
+            
+          </div><div class="x-premium-product-links__description">
+            
+              Категория
+            
+          </div></div></a></div><div class="x-product-recommendations"><div class="x-product-recommendations__header"><div>
+          Похожие
+        </div></div><div class="swiper"><div class="swiper-container"><div class="swiper-wrapper"><div class="swiper-slide d-recommendations-skeleton__slide d-recommendations-skeleton__slide--premium"><div class="">
+    <div
+       class="x-aspect-ratio_outer"
+       style="padding-bottom: 144.491525%"
+    >
+      <div class="x-aspect-ratio_inner"><div class="d-recommendations-skeleton__image"></div><div class="d-recommendations-skeleton__label">
+            
+  <div
+       class="x-skeleton-box x-skeleton-box__secondaryBackground  d-recommendations-skeleton__box"
+       style="width: 60%; height: 15px;">
+    <div
+      class="x-skeleton-box__equalizer x-skeleton-box__secondaryBackground "
+      
+    ></div></div>
+
+            
+  <div
+       class="x-skeleton-box x-skeleton-box__secondaryBackground  d-recommendations-skeleton__box"
+       style="width: 50%; height: 15px;">
+    <div
+      class="x-skeleton-box__equalizer x-skeleton-box__secondaryBackground "
+      
+    ></div></div>
+
+            
+  <div
+       class="x-skeleton-box x-skeleton-box__secondaryBackground  d-recommendations-skeleton__box"
+       style="width: 70%; height: 15px;">
+    <div
+      class="x-skeleton-box__equalizer x-skeleton-box__secondaryBackground "
+      
+    ></div></div></div></div></div></div></div><div class="swiper-slide d-recommendations-skeleton__slide d-recommendations-skeleton__slide--premium"><div class="">
+    <div
+       class="x-aspect-ratio_outer"
+       style="padding-bottom: 144.491525%"
+    >
+      <div class="x-aspect-ratio_inner"><div class="d-recommendations-skeleton__image"></div><div class="d-recommendations-skeleton__label">
+            
+  <div
+       class="x-skeleton-box x-skeleton-box__secondaryBackground  d-recommendations-skeleton__box"
+       style="width: 60%; height: 15px;">
+    <div
+      class="x-skeleton-box__equalizer x-skeleton-box__secondaryBackground "
+      
+    ></div></div>
+
+            
+  <div
+       class="x-skeleton-box x-skeleton-box__secondaryBackground  d-recommendations-skeleton__box"
+       style="width: 50%; height: 15px;">
+    <div
+      class="x-skeleton-box__equalizer x-skeleton-box__secondaryBackground "
+      
+    ></div></div>
+
+            
+  <div
+       class="x-skeleton-box x-skeleton-box__secondaryBackground  d-recommendations-skeleton__box"
+       style="width: 70%; height: 15px;">
+    <div
+      class="x-skeleton-box__equalizer x-skeleton-box__secondaryBackground "
+      
+    ></div></div></div></div></div></div></div><div class="swiper-slide d-recommendations-skeleton__slide d-recommendations-skeleton__slide--premium"><div class="">
+    <div
+       class="x-aspect-ratio_outer"
+       style="padding-bottom: 144.491525%"
+    >
+      <div class="x-aspect-ratio_inner"><div class="d-recommendations-skeleton__image"></div><div class="d-recommendations-skeleton__label">
+            
+  <div
+       class="x-skeleton-box x-skeleton-box__secondaryBackground  d-recommendations-skeleton__box"
+       style="width: 60%; height: 15px;">
+    <div
+      class="x-skeleton-box__equalizer x-skeleton-box__secondaryBackground "
+      
+    ></div></div>
+
+            
+  <div
+       class="x-skeleton-box x-skeleton-box__secondaryBackground  d-recommendations-skeleton__box"
+       style="width: 50%; height: 15px;">
+    <div
+      class="x-skeleton-box__equalizer x-skeleton-box__secondaryBackground "
+      
+    ></div></div>
+
+            
+  <div
+       class="x-skeleton-box x-skeleton-box__secondaryBackground  d-recommendations-skeleton__box"
+       style="width: 70%; height: 15px;">
+    <div
+      class="x-skeleton-box__equalizer x-skeleton-box__secondaryBackground "
+      
+    ></div></div></div></div></div></div></div><div class="swiper-slide d-recommendations-skeleton__slide d-recommendations-skeleton__slide--premium"><div class="">
+    <div
+       class="x-aspect-ratio_outer"
+       style="padding-bottom: 144.491525%"
+    >
+      <div class="x-aspect-ratio_inner"><div class="d-recommendations-skeleton__image"></div><div class="d-recommendations-skeleton__label">
+            
+  <div
+       class="x-skeleton-box x-skeleton-box__secondaryBackground  d-recommendations-skeleton__box"
+       style="width: 60%; height: 15px;">
+    <div
+      class="x-skeleton-box__equalizer x-skeleton-box__secondaryBackground "
+      
+    ></div></div>
+
+            
+  <div
+       class="x-skeleton-box x-skeleton-box__secondaryBackground  d-recommendations-skeleton__box"
+       style="width: 50%; height: 15px;">
+    <div
+      class="x-skeleton-box__equalizer x-skeleton-box__secondaryBackground "
+      
+    ></div></div>
+
+            
+  <div
+       class="x-skeleton-box x-skeleton-box__secondaryBackground  d-recommendations-skeleton__box"
+       style="width: 70%; height: 15px;">
+    <div
+      class="x-skeleton-box__equalizer x-skeleton-box__secondaryBackground "
+      
+    ></div></div></div></div></div></div></div><div class="swiper-slide d-recommendations-skeleton__slide d-recommendations-skeleton__slide--premium"><div class="">
+    <div
+       class="x-aspect-ratio_outer"
+       style="padding-bottom: 144.491525%"
+    >
+      <div class="x-aspect-ratio_inner"><div class="d-recommendations-skeleton__image"></div><div class="d-recommendations-skeleton__label">
+            
+  <div
+       class="x-skeleton-box x-skeleton-box__secondaryBackground  d-recommendations-skeleton__box"
+       style="width: 60%; height: 15px;">
+    <div
+      class="x-skeleton-box__equalizer x-skeleton-box__secondaryBackground "
+      
+    ></div></div>
+
+            
+  <div
+       class="x-skeleton-box x-skeleton-box__secondaryBackground  d-recommendations-skeleton__box"
+       style="width: 50%; height: 15px;">
+    <div
+      class="x-skeleton-box__equalizer x-skeleton-box__secondaryBackground "
+      
+    ></div></div>
+
+            
+  <div
+       class="x-skeleton-box x-skeleton-box__secondaryBackground  d-recommendations-skeleton__box"
+       style="width: 70%; height: 15px;">
+    <div
+      class="x-skeleton-box__equalizer x-skeleton-box__secondaryBackground "
+      
+    ></div></div></div></div></div></div></div><div class="swiper-slide d-recommendations-skeleton__slide d-recommendations-skeleton__slide--premium"><div class="">
+    <div
+       class="x-aspect-ratio_outer"
+       style="padding-bottom: 144.491525%"
+    >
+      <div class="x-aspect-ratio_inner"><div class="d-recommendations-skeleton__image"></div><div class="d-recommendations-skeleton__label">
+            
+  <div
+       class="x-skeleton-box x-skeleton-box__secondaryBackground  d-recommendations-skeleton__box"
+       style="width: 60%; height: 15px;">
+    <div
+      class="x-skeleton-box__equalizer x-skeleton-box__secondaryBackground "
+      
+    ></div></div>
+
+            
+  <div
+       class="x-skeleton-box x-skeleton-box__secondaryBackground  d-recommendations-skeleton__box"
+       style="width: 50%; height: 15px;">
+    <div
+      class="x-skeleton-box__equalizer x-skeleton-box__secondaryBackground "
+      
+    ></div></div>
+
+            
+  <div
+       class="x-skeleton-box x-skeleton-box__secondaryBackground  d-recommendations-skeleton__box"
+       style="width: 70%; height: 15px;">
+    <div
+      class="x-skeleton-box__equalizer x-skeleton-box__secondaryBackground "
+      
+    ></div></div></div></div></div></div></div></div></div></div></div><div class="x-product-recommendations"><div class="x-product-recommendations__header"><div>
+          Недавно просмотренные
+        </div></div><div class="swiper"><div class="swiper-container"><div class="swiper-wrapper"><div class="swiper-slide d-recommendations-skeleton__slide d-recommendations-skeleton__slide--premium"><div class="">
+    <div
+       class="x-aspect-ratio_outer"
+       style="padding-bottom: 144.491525%"
+    >
+      <div class="x-aspect-ratio_inner"><div class="d-recommendations-skeleton__image"></div><div class="d-recommendations-skeleton__label">
+            
+  <div
+       class="x-skeleton-box x-skeleton-box__secondaryBackground  d-recommendations-skeleton__box"
+       style="width: 60%; height: 15px;">
+    <div
+      class="x-skeleton-box__equalizer x-skeleton-box__secondaryBackground "
+      
+    ></div></div>
+
+            
+  <div
+       class="x-skeleton-box x-skeleton-box__secondaryBackground  d-recommendations-skeleton__box"
+       style="width: 50%; height: 15px;">
+    <div
+      class="x-skeleton-box__equalizer x-skeleton-box__secondaryBackground "
+      
+    ></div></div>
+
+            
+  <div
+       class="x-skeleton-box x-skeleton-box__secondaryBackground  d-recommendations-skeleton__box"
+       style="width: 70%; height: 15px;">
+    <div
+      class="x-skeleton-box__equalizer x-skeleton-box__secondaryBackground "
+      
+    ></div></div></div></div></div></div></div><div class="swiper-slide d-recommendations-skeleton__slide d-recommendations-skeleton__slide--premium"><div class="">
+    <div
+       class="x-aspect-ratio_outer"
+       style="padding-bottom: 144.491525%"
+    >
+      <div class="x-aspect-ratio_inner"><div class="d-recommendations-skeleton__image"></div><div class="d-recommendations-skeleton__label">
+            
+  <div
+       class="x-skeleton-box x-skeleton-box__secondaryBackground  d-recommendations-skeleton__box"
+       style="width: 60%; height: 15px;">
+    <div
+      class="x-skeleton-box__equalizer x-skeleton-box__secondaryBackground "
+      
+    ></div></div>
+
+            
+  <div
+       class="x-skeleton-box x-skeleton-box__secondaryBackground  d-recommendations-skeleton__box"
+       style="width: 50%; height: 15px;">
+    <div
+      class="x-skeleton-box__equalizer x-skeleton-box__secondaryBackground "
+      
+    ></div></div>
+
+            
+  <div
+       class="x-skeleton-box x-skeleton-box__secondaryBackground  d-recommendations-skeleton__box"
+       style="width: 70%; height: 15px;">
+    <div
+      class="x-skeleton-box__equalizer x-skeleton-box__secondaryBackground "
+      
+    ></div></div></div></div></div></div></div><div class="swiper-slide d-recommendations-skeleton__slide d-recommendations-skeleton__slide--premium"><div class="">
+    <div
+       class="x-aspect-ratio_outer"
+       style="padding-bottom: 144.491525%"
+    >
+      <div class="x-aspect-ratio_inner"><div class="d-recommendations-skeleton__image"></div><div class="d-recommendations-skeleton__label">
+            
+  <div
+       class="x-skeleton-box x-skeleton-box__secondaryBackground  d-recommendations-skeleton__box"
+       style="width: 60%; height: 15px;">
+    <div
+      class="x-skeleton-box__equalizer x-skeleton-box__secondaryBackground "
+      
+    ></div></div>
+
+            
+  <div
+       class="x-skeleton-box x-skeleton-box__secondaryBackground  d-recommendations-skeleton__box"
+       style="width: 50%; height: 15px;">
+    <div
+      class="x-skeleton-box__equalizer x-skeleton-box__secondaryBackground "
+      
+    ></div></div>
+
+            
+  <div
+       class="x-skeleton-box x-skeleton-box__secondaryBackground  d-recommendations-skeleton__box"
+       style="width: 70%; height: 15px;">
+    <div
+      class="x-skeleton-box__equalizer x-skeleton-box__secondaryBackground "
+      
+    ></div></div></div></div></div></div></div><div class="swiper-slide d-recommendations-skeleton__slide d-recommendations-skeleton__slide--premium"><div class="">
+    <div
+       class="x-aspect-ratio_outer"
+       style="padding-bottom: 144.491525%"
+    >
+      <div class="x-aspect-ratio_inner"><div class="d-recommendations-skeleton__image"></div><div class="d-recommendations-skeleton__label">
+            
+  <div
+       class="x-skeleton-box x-skeleton-box__secondaryBackground  d-recommendations-skeleton__box"
+       style="width: 60%; height: 15px;">
+    <div
+      class="x-skeleton-box__equalizer x-skeleton-box__secondaryBackground "
+      
+    ></div></div>
+
+            
+  <div
+       class="x-skeleton-box x-skeleton-box__secondaryBackground  d-recommendations-skeleton__box"
+       style="width: 50%; height: 15px;">
+    <div
+      class="x-skeleton-box__equalizer x-skeleton-box__secondaryBackground "
+      
+    ></div></div>
+
+            
+  <div
+       class="x-skeleton-box x-skeleton-box__secondaryBackground  d-recommendations-skeleton__box"
+       style="width: 70%; height: 15px;">
+    <div
+      class="x-skeleton-box__equalizer x-skeleton-box__secondaryBackground "
+      
+    ></div></div></div></div></div></div></div><div class="swiper-slide d-recommendations-skeleton__slide d-recommendations-skeleton__slide--premium"><div class="">
+    <div
+       class="x-aspect-ratio_outer"
+       style="padding-bottom: 144.491525%"
+    >
+      <div class="x-aspect-ratio_inner"><div class="d-recommendations-skeleton__image"></div><div class="d-recommendations-skeleton__label">
+            
+  <div
+       class="x-skeleton-box x-skeleton-box__secondaryBackground  d-recommendations-skeleton__box"
+       style="width: 60%; height: 15px;">
+    <div
+      class="x-skeleton-box__equalizer x-skeleton-box__secondaryBackground "
+      
+    ></div></div>
+
+            
+  <div
+       class="x-skeleton-box x-skeleton-box__secondaryBackground  d-recommendations-skeleton__box"
+       style="width: 50%; height: 15px;">
+    <div
+      class="x-skeleton-box__equalizer x-skeleton-box__secondaryBackground "
+      
+    ></div></div>
+
+            
+  <div
+       class="x-skeleton-box x-skeleton-box__secondaryBackground  d-recommendations-skeleton__box"
+       style="width: 70%; height: 15px;">
+    <div
+      class="x-skeleton-box__equalizer x-skeleton-box__secondaryBackground "
+      
+    ></div></div></div></div></div></div></div><div class="swiper-slide d-recommendations-skeleton__slide d-recommendations-skeleton__slide--premium"><div class="">
+    <div
+       class="x-aspect-ratio_outer"
+       style="padding-bottom: 144.491525%"
+    >
+      <div class="x-aspect-ratio_inner"><div class="d-recommendations-skeleton__image"></div><div class="d-recommendations-skeleton__label">
+            
+  <div
+       class="x-skeleton-box x-skeleton-box__secondaryBackground  d-recommendations-skeleton__box"
+       style="width: 60%; height: 15px;">
+    <div
+      class="x-skeleton-box__equalizer x-skeleton-box__secondaryBackground "
+      
+    ></div></div>
+
+            
+  <div
+       class="x-skeleton-box x-skeleton-box__secondaryBackground  d-recommendations-skeleton__box"
+       style="width: 50%; height: 15px;">
+    <div
+      class="x-skeleton-box__equalizer x-skeleton-box__secondaryBackground "
+      
+    ></div></div>
+
+            
+  <div
+       class="x-skeleton-box x-skeleton-box__secondaryBackground  d-recommendations-skeleton__box"
+       style="width: 70%; height: 15px;">
+    <div
+      class="x-skeleton-box__equalizer x-skeleton-box__secondaryBackground "
+      
+    ></div></div></div></div></div></div></div></div></div></div></div></div></div></div></main><div class="x-footer-seo-menu "><div class="x-footer-seo-menu-content"><div class="x-footer-seo-menu-title"></div><div class="x-footer-seo-menu-tabs"></div></div></div></div></div><div id="size-table"></div><div id="top"></div><div id="bottom"></div><div id="fullscreen"></div><div id="modals"></div><script>
+  var __NUXT__ = {
+    payload: {
+      data: {},
+      state: {
+        header: {"menu_gender":"men","menu":null,"menu_flexible":{"category":[{"class":"discovery","title":{"text":"Идеи","url":"/discovery-men/"}},{"class":"randomColor","title":{"text":"Новинки","url":"/c/4152/default-men/?is_new=1"}},{"title":{"text":"Одежда","url":"/c/477/clothes-muzhskaya-odezhda/"}},{"title":{"text":"Обувь","url":"/c/17/shoes-men/"}},{"title":{"text":"Аксессуары","url":"/c/559/accs-muzhskieaksessuary/"}},{"class":"brands_mass_market","title":{"text":"Бренды","url":"/brands/"}},{"class":"premium_mass_market","title":{"text":"Premium","url":"/home-premium-men/"}},{"title":{"text":"Спорт","url":"/home-sport-men/"}},{"title":{"text":"Resale","url":"/c/4152/default-men/?display_locations=resale"}},{"title":{"text":"Красота","url":"/c/4288/beauty_accs_ns-menbeauty/"}},{"title":{"text":"Дом","url":"/c/6647/home_accs-tovarydlyadoma/"}},{"class":"red","title":{"text":"Sale%","url":"/c/4152/default-men/?is_sale=1\u0026display_locations=outlet"}}],"id":"men"}},
+        page_is_premium: false,
+        user: {"gender":"","customer":null,"customer_attributes":null,"experiments":{"1974_total_logout":"1","404-section-recommendations-spss":"mainsite_bestseller_test","ADV-1608_catalog_extra_placements":"1","ADV-1608_sku_extra_placements":"1","ADV-236-adv-banner-system":"1","ADV-401_sponsored_ads_provider":"ad_platform","ADV-752__sponsored_ads__search":"1","ADV-905__sponsored_ads__auction_models":"fp_ctr_scores","ADV_lamodastylist":"1","ADV_onsite_2":"1","B2BPLFM_320_hybrid_filters":"1","CORE-4922_sbp":"1","CORE5310_eWallet":"1","CORE_1834_payment_gate":"1","CORE_956_orders_payment":"1","CP-483_enabled_v3-cross-product-recommendations":"1","CP-483_model_name_v3-cross-product-recommendations":"cross_reranker","CP-483_model_version_v3-cross-product-recommendations":"v1","CT877_neural_search":"1","CT878_speed_up_ranking":"1","CT899_sorting_factors_flattened":"1","CT_364_NEW_ELASTIC_PRODUCTS":"1","DT1328_payment_form":"1","DT1487_chat":"1","DT1488_phone_verification":"1","DT1564_social_proof":"0","DT1717_new_prices":"1","DT1906_grey_postpayment":"1","DT2212_NO_QC_LIMITS":"1","DT2212_no_qc_limits":"1","DT332_popup_discounts":"1","DT341_dynamic_size_chart":"1","DT441_giftcards":"1","DT581_leftmenu_expand":"1","DT793_lstat_absolute":"1","DT973_authenticity_guarantee":"1","Gather_RUM":"1","ITPMO-1012_profile_avatar":"show","ITPMO-1750_WEB_sis_search_suggest":"1","ITPMO-2256_rate_delivery_a":"1","ITPMO-2322_offline_loyalty":"1","ITPMO-2358_new_registretion":"1","ITPMO-2411_offline_coupons":"1","ITPMO-2415_hard_confirmation":"1","ITPMO-685":"show","ITPMO-782_Citrus":"0","ITPMO1608_resale":"1","ITPMO1651_fullmp":"1","ITPMO1751_redesign_order_card":"1","ITPMO1968_Non_Return":"1","ITPMO1989_set_series":"1","ITPMO2042_ads_catalog_banner":"1","ITPMO2158_ppdeliveryinfo":"1","ITPMO2193_som_extend_backend":"1","ITPMO2193_som_extend_days":"3","ITPMO2193_som_extend_request":"1","ITPMO2195_hd":"1","ITPMO2221_hd":"1","ITPMO2266_raiting_and_reviews":"1","ITPMO2266_raiting_and_reviews_premium":"1","ITPMO2278_pp_redesign_reviews_firstscreen":"2","ITPMO2389_upsell_PP":"1","ITPMO2389_upsell_succespage":"1","ITPMO2400_knopka_v_korzinu":"1","ITPMO2498_profile_lasport":"1","ITPMO463_PREPAY_DISCOUNT":"1","ITPMO525_itlc":"show","ITPMO595_NEW_OFFERS":"1","ITPMO652_contactless_delivery":"1","ITPMO918_WEB_ProductPage":"1","ITPMO922_shades_PPcolorselector":"1","ITPMO_2146_orderrecipient":"1","ITPMO_2176_brand_description":"1","ITPMO_2179_authorization":"2","ITPMO_2224_prepaymentbutton":"1","ITPMO_2234_cartshare":"1","ITPMO_2251_catalog_redesign_badges":"1","ITPMO_2251_catalog_redesign_premium_sizes":"1","ITPMO_2257_originality_redesign":"1","ITPMO_2258_one_colour_beauty":"1","ITPMO_2258_one_volume_beauty":"1","ITPMO_2262_beauty_entry":"1","ITPMO_2262_home_main_page":"1","ITPMO_2266_beauty_names":"1","ITPMO_2266_colours_in_catalog":"1","ITPMO_2266_volumes_in_catalog":"1","ITPMO_2268_multiitems":"1","ITPMO_2279_new_reviews_form":"0","ITPMO_2325_highlightservicelevel":"1","ITPMO_2348_certs_on_cart":"1","ITPMO_2361_notryon_text":"1","ITPMO_2412_fast_cartadd_beauty_home":"1","ITPMO_2417_PP_counter":"1","ITPMO_2418_min_qty_order":"0","ITPMO_2444_orders_page":"1","ITPMO_650_mp_prepayment":"1","ITPMO_875_om_modify":"1","ITPMO_875_om_modify_mp":"1","ITPMO_875_om_modify_prepayment":"1","ITPMO_884_tinkoff_payments":"1","ITPMO_988_my_promocodes":"show","MOBBACK-1515_monobrands":"1","MOBBACK-1844_item_limit_amount":"20","MOBBACK-2620":"show","MOBBACK-2820-just4you":"1","MOBBACK-3601":"show","MOBBACK-5630_address_api_new_suggest":"1","MOBBACK-6879_makeup_shades":"1","MOBBACK-7198_phone_country_restriction":"1","MOBBACK3559_orders_antifraud":"dry-mode","MOBBACK3559_orders_antifraud_payment":"dry-mode","MOBBACK3559_orders_antifraud_ratelimit":"dry-mode","MOBBACK7052_card_order":"1","MOBBACK_4116_efc_all":"1","MOBBACK_4398_test_russian_post_pups":"1","MOBBACK_5295_prepayment":"1","MSITE-1565_msite_tilda":"1","MSITE_2070_ssi":"1","NEWSEARCH":"1","ORD-1042_shipment_orders_sent":"1","ORD_847_wms_inOrder":"1","ORD_847_wms_inOrderFBS":"1","PAYMENTS-2126":"1","PAYMENTS-403":"1","PAYMENTS_2935_Linked_cards":"1","PAYMENTS_2935_Linked_cards_banner":"1","PAYMENTS_2935_Linked_sbp":"1","PAYMENTS_3568_easy_return_refusal_of_sms":"1","PERS107_addtocart2":"2","PO124_PUPnewmap":"2","PO143_urser":"1","PO171_MP_name":"1","PO175_payment_methods":"1","PO175_precheck":"1","PO198_notryonbeauty":"2","PRODUCT_545_partialcartorder":"1","Payments_824_Certificate":"1","Payments_824_PaytureSBP":"1","Payments_824_PaytureTinkoff":"1","RND-4661_search_translit":"1","RND-6532_ranking_api_version":"v4","RND-7750_search_multigender_facets":"1","RND-7869_add_secondary_sorting":"1","RND-8260_is_use_v5_get_ranking_sf":"1","RND-8282_clearer_show_size_recs_subset_id":"1","RND7825_filtr_production_country":"1","RNDDA-2717_allow_sqa_gender":"true","RNDDA-2717_catalog_sort_integration":"true","RNDDA-2945_size_suggester":"1","RNDDA-5394_pp_has_looks_for_sku":"1","RNDDA-6077_customer_profile_data_collector":"1","RNDDA-6108-purchased-good":"0","RNDDA4245_big_empty_recos":"1","SIZE47_size_autofill":"1","SPLIT_MIN_LIMIT":"0","TIPS-29_tips":"1","Test_Payments":"1","Tinkoff_6499":"1","UI12274_fav_lists_on":"1","UI9941_cancel_postpone":"1","WEB-10071_SIS_in_apps_2":"1","WEB-11587_get-the-look-redesign":"2","WEB-12095_Success_page_redesign":"1","WEB-12095_ads_at_success_page":"1","WEB-12426_get_the_look_on_main_page_desktop":"1","WEB-12426_journal_on_main_page_desktop":"1","WEB-12929_fav_quickadd_button":"1","WEB-12935-ideas-old-navigation":"1","WEB-13481_quickcheckout_reload_page":"1","WEB-13916_giftcerts_return":"1","WEB-2737_go_v2_redirects":"1","WEB-7671":"show","WEB-9022_clearer_show_size_recs":"1","WEB-9546_blog_redesign":"1","WEB-9709_second_rec_in_cart":"1","WEB10307_ads_sku_catalog_banner":"1","WEB10308_ads_wishlist_catalog_banner":"1","WEB10333_redesign_order_card":"1","WEB10908_top_promobar_cat":"1","WEB11382_sku_new_banner":"1","WEB11383_json_premium":"1","WEB12655_right_text":"1","WEB1873_giftcertificates":"1","WEB2330_updated_look_recs_number":"0","WEB2838_lamodastylist":"1","WEB2865_go_pa_installments":"1","WEB3023_go_geo":"1","WEB3087_customer_gift":"1","WEB3151_corporate_coupons":"1","WEB3360_Redesign_QV":"0","WEB3641_catalog_loyalty":"1","WEB3732_stories_new_gallery":"1","WEB3821_favoritebrandsinlist":"1","WEB3934_bestsellers_on_premium_main":"1","WEB4285_delivery_pos":"1","WEB4325_min_price_in_recs":"1","WEB4383_Discovery_Hub":"1","WEB4550_masterpass":"1","WEB4677_vue_checkout":"1","WEB4782_revo_pp":"1","WEB5113_brand_redesign":"1","WEB5127_profile_review_and_question":"1","WEB5171_looks_on_PP":"1","WEB5365_Mainpage_web":"1","WEB5367_NewBestActions":"1","WEB5368_catalog_slider":"1","WEB5377_gamification":"1","WEB5499_seo_block":"1","WEB5543_mokka_newcheckoutbanner":"1","WEB5603_new_review_form":"1","WEB5603_new_reviews_pp":"1","WEB5687_sets_links":"1","WEB5729_PP_deeplinks_with_photo":"1","WEB5796_vue_quickview":"1","WEB5943_vue_delivery":"1","WEB6077_hide_price_detail":"1","WEB6512_delivery_pup_pp_vue":"1","WEB6690_vue_easyreturn":"1","WEB6690_vue_orders":"1","WEB6728_Discoveryhub_endless_scroll":"1","WEB7098_vue_catalog":"1","WEB7184_New_buttons_color":"Black_button","WEB7186_size_charts":"1","WEB7204_pp_on_vue":"1","WEB7220_lamodadrycleaning":"1","WEB7227_similar_for_outofstock":"1","WEB7266_pp_on_mobapi":"1","WEB7705_footer_partners_new":"1","WEB7944_ReccBlockforLooks":"1","WEB8070_Beauty_Page":"1","WEB8081_MenLooks":"1","WEB8231_achievements_svg":"1","WEB8737_new_landing_cert":"1","WEB8802_lamoda_live":"1","WEB8829_split_checkout":"1","WEB9131_new_footer":"1","WEB9177_filters_redesign_dsk":"1","WEB9307":"1","WEB9453_top_menu_cache":"1","WEB9673_review":"2","WEB9790_Loading_Button":"1","WEB_10137_split_checkout":"1","WEB_10410_newpromocode":"1","WEB_11010_som_extend":"1","WEB_11679_checkout_header":"1","WEB_12204_popular_shelf_premium":"1","WEB_12229_popular_shelf_sport":"1","WEB_4028_filters":"0","WEB_6776_interval_price":"1","WEB_8358_filters_in_similar":"1","WEB_9494_favorite_brands":"1","WEB_9520_pupmap":"1","WEB_BEAUTY_IN_GZL":"1","Yandex_Split":"1","ab_experiments":"4779,4813,4840,4854,4673,4836","apps_revo":"1","call_delay":"1","cart-recommendations":"all_categories_scores_hybrid_deduplicated","cart-recommendations-algorithm":"sort_by_general_score","cart-recommendations-extra-algorithm":"sku-score-sum","cart_extra_recs_size":"disabled","cart_recs_size":"about_the_same_size","catalog_facet_ranking":"1","catalog_reranker":"1","catalog_reranker_aa":"off","catalog_reranker_ar_cfg_name":"exp1","catalog_reranker_cache_ru":"1","catalog_reranker_customer_features_version":"v1_0_0_7","catalog_reranker_diversity_alg":"0","catalog_reranker_diversity_attribute_weight":"brand0.5color0.299category0.201","catalog_reranker_diversity_relevance_weight":"0.8","catalog_reranker_diversity_window_length":"input300output10max_output300","catalog_reranker_facet_config":"weight_cr_avg_deviation_w_cat1","catalog_reranker_features_version":"v4","catalog_reranker_for_customer_0":"1","catalog_reranker_model_name":"reranker_v6","catalog_reranker_need_rerank":"1","catalog_reranker_products_count":"400","catalog_reranker_search_category":"1","catalog_reranker_search_category_on":"1","catalog_reranker_xlog_direct":"1","catalog_reranker_xlog_sampling_rate_desktop":"a1.0na0.2","catalog_reranker_xlog_send_online_features":"1","catalog_reranker_xlog_single_features_config":"reranker_features_to_xlog_v7","catalog_stock_flag":"1","chat_number":"79858601908","collections_first_in_recs":"cross","eca":"1","empty-recommendations-spss":"query_baseline","enforced_fullcheckout":"0","enforced_fullcheckout_mobapi":"1","experimental_topmenu_flexible_ver":"default","facet_personalization_etcd_config":"v3.2_by_facet_cat_weight_cr_avg_deviation_max_boost_1000.pos","facet_personalization_prism_config":"weight_cr_avg_deviation_w_cat1","facet_personalization_prism_w_query_config":"weight_cr_avg_deviation_w_cat1","facet_personalization_w_query_etcd_config":"v3.2_by_facet_cat_weight_cr_avg_deviation_max_boost_1000.pos","favorites_filters_in_stock":"1","flex_desktop_kids_brands":"1","fullcheckout":"1","general-attribute-restriction-enabled":"0","indi-looks-recommendations":"likes_from_looks","internal_sorting_group":"v001_RNDDA-4962_segments","itpmo1047_loyalty":"1","itpmo904_newzoom":"1","just4you_feed_source":"just4you_feed","just4you_feed_version":"als_diversified_with_bestsellers_beauty_and_business_logic","legal_market_labeling":"1","looks-for-sku-recommendations":"from_orders_v2","main-section-recommendations-spss":"mainsite_bestseller_test_v2","mobback-6870_service_levels_prio":"1","mobile_checkout_check_verification_phone":"1","msite1102_premium_page":"1","msite1513_pushes":"1","neural_search_limit":"150","neural_search_ranking_off":"1","order_categories":"1","other-sections-recommendations-spss":"mainsite_bestseller_test","persisted_checkout_off":"1","personal_popular_top_in_filters":"1","phone":"8 800 700-64-46","phone_msk":"+7 (499) 500-49-59","po170_cart":"1","populars_top_in_filters":"clickbait","product-product-recommendations-cross":"RNDDA-5469_upsell_with_business_rules_hybrid_deduplicated","product-product-recommendations-general":"all_categories_scores_hybrid_deduplicated","product-product-recommendations-similar":"w2v__content__rec_new_hybrid_deduplicated","product-product-recommendations-size":"0","quickcheckout":"0","rank_cross_recs_customer_features_version":"v1","rank_cross_recs_facet_config":"weight_cr_avg_deviation_w_cat1","rank_cross_recs_features_version":"v2","rank_cross_recs_model_name":"cross_reranker_v1","rank_cross_recs_paired_features_version":"v1","rank_cross_reranker_customer_features_version":"v1","rank_cross_reranker_facet_config":"weight_cr_avg_deviation_w_cat1","rank_cross_reranker_features_version":"v2","rank_cross_reranker_model_name":"cross_reranker_v1","rank_cross_reranker_paired_features_version":"v1","reco_nodiscount":"1","request_lid":"A002406499878667BB2991230237B671","rnd_pricing":"1","search-candidates-version":"main_serp_neural","search_alternative_queries":"dict","search_alternative_queries_limit":"2","search_relevance":"score_script","search_suggest_experiment":"sqa","similar_filters_in_priority":"brand.image.color","site_microcredits_revo":"1","site_topmenu_type":"flexible","size_suggester_features_xlog_config_version":"1","size_suggester_features_xlog_enable":"1","sizerecs_config_version":"8","sort_podobrali_dlya_vas":"1","split_buckets":"v3-118-09-00-022269-102281-102294-042303-092304-112311-062317-032318-032325-092329-022330-092331-052334-102348-032352-022360-032361-122362-122364-112365-082366-062367-012368-032369-032370","sqa_fix_gender":"1","web-7899_first3":"show","web8923_popup":"1","web9051_discountsize":"10","web_8401_lp_redesign":"show"},"adv_variables":{"ADV-1608_CATALOG_EXTRA_PLACEMENTS":"1","ADV-1608_SKU_EXTRA_PLACEMENTS":"1","ADV-236-ADV-BANNER-SYSTEM":"1","ADV-752__SPONSORED_ADS__SEARCH":"1","ADV_LAMODASTYLIST":"1","ADV_ONSITE_2":"1"},"lidinfo":{"customer-id":null,"customer-segments":{},"favorite_brands":[],"gender":null,"new-customer":false,"price-segment":null,"product-view-history":[],"shoe-size":{}},"menu":[{"Name":"orders-list","Path":"/sales/current/order/history/","Title":"Мои заказы"},{"Name":"wishes-list","Path":"/wishlist/","Title":"Избранное"},{"Name":"edit","Path":"/customer/account/","Title":"Мои данные"},{"Name":"subscriptions","Path":"/customer/account/subscriptions/","Title":"Подписки"},{"Name":"reviews-questions","Path":"/customer/account/reviews/","Title":"Отзывы и вопросы"},{"Name":"certificates","Path":"/customer/account/giftcertificates/","Title":"Мои подарочные сертификаты"},{"Name":"loyalty_program","Path":"/customer/account/loyalty_program/","Title":"Программа лояльности"},{"Name":"loyalty_cart","Path":"/customer/account/barcode/","Title":"Моя карта лояльности"},{"Name":"user_returns","Path":"/customer/account/returns/","Title":"Возвраты"},{"Name":"installments","Path":"/installments/","Title":"Оплата частями"}],"cart":null,"cart_quantity":0,"total_price":"","wishlist":null,"loyalty":null,"premium_status":null,"loyalty_ranges":null,"favorite_brands":null,"offers":null},
+        payload: {"product":{"brand":{"thumbnail_image":"https://a.lmcdn.ru/resize/cms/144x144/product_page/brand.jpg","description":"Zolla — российский бренд женской и мужской одежды, который с 2004 года создает функциональные и качественные вещи, сочетающие проверенную временем классику и тренды. В каждой коллекции можно собрать нескучные образы для любого повода: от офисных будней до вечерних нарядов. И, главное, по доступным ценам.","id":"31272","is_beauty":false,"is_kids":false,"is_premium":false,"is_sport":false,"seo_tail":"brand-zolla","title":"Zolla"},"breadcrumbs":[{"gender_segment":"men","id":4152,"image_path":"top_menu/subcategories/category_4152.jpg","label":"Мужчинам","name":"Мужчинам","url":"default-men"},{"gender_segment":"men","id":477,"image_path":"top_menu/subcategories/category_477.jpg","label":"Одежда","name":"Одежда","size_table_id":2116,"url":"clothes-muzhskaya-odezhda"},{"gender_segment":"men","id":2512,"image_path":"top_menu/subcategories/99-futbolka_unisex.jpg","label":"Футболки и поло","name":"Футболки и поло","size_table_id":2116,"url":"clothes-muzhskie-futbolki"},{"gender_segment":"men","id":2513,"image_path":"top_menu/subcategories/category_2513.jpg","image_stub":"product_page/other.jpg","label":"Футболки с коротким рукавом","name":"Футболки с коротким рукавом","size_table_id":2116,"url":"clothes-muz-futbolki-s-korotkim"}],"catalog_links":[{"deeplink":"lamoda://ru/cb/2513?b=31272","description":"Бренд и категория","link":"/cb/2513-31272/clothes-muz-futbolki-s-korotkim/","thumbnail_image":"https://a.lmcdn.ru/resize/cms/144x144/product_page/brand.jpg","title":"Все Футболки с коротким рукавом Zolla","type":"category_brand"},{"deeplink":"lamoda://ru/b/31272","description":"Бренд","link":"/b/31272/brand-zolla/","thumbnail_image":"https://a.lmcdn.ru/resize/cms/144x144/product_page/brand.jpg","title":"Другие товары Zolla","type":"brand"},{"deeplink":"lamoda://ru/n/2513","description":"Категория","link":"/c/2513/clothes-muz-futbolki-s-korotkim/","thumbnail_image":"https://a.lmcdn.ru/resize/cms/144x144/top_menu/subcategories/category_2513.jpg","title":"Все Футболки с коротким рукавом","type":"category"}],"installments":[],"is_returnable":true,"other_category":{"thumbnail_image":"https://a.lmcdn.ru/resize/cms/144x144/product_page/other.jpg"},"seasons":[{"id":"5592","title":"мульти"}],"seo_tail":"clothes-zolla-futbolka","size_id":"0","size_scale_code":"CL_M_INT","sizes":[{"brand_id":"1507","brand_size_system":"INT","brand_title":"S","id":"34336","is_universal":false,"primary_description":"Обхват шеи 39 см, Обхват груди 90-94 см, Обхват талии 78-82 см, Рост 182-188 см","shipment_type":null,"size_system":"RUS","sku":"MP002XM0BAM4INS","stock_quantity":3,"tax_vat":20,"title":"46"},{"brand_id":"1581","brand_size_system":"INT","brand_title":"M","id":"34337","is_universal":false,"primary_description":"Обхват шеи 40 см, Обхват груди 94-98 см, Обхват талии 82-86 см, Рост 182-188 см","shipment_type":null,"size_system":"RUS","sku":"MP002XM0BAM4INM","stock_quantity":0,"tax_vat":20,"title":"48"},{"brand_id":"1577","brand_size_system":"INT","brand_title":"L","id":"34338","is_universal":false,"primary_description":"Обхват шеи 41 см, Обхват груди 98-102 см, Обхват талии 86-90 см, Рост 182-188 см","shipment_type":null,"size_system":"RUS","sku":"MP002XM0BAM4INL","stock_quantity":0,"tax_vat":20,"title":"50"},{"brand_id":"1573","brand_size_system":"INT","brand_title":"XL","id":"34339","is_universal":false,"primary_description":"Обхват шеи 42 см, Обхват груди 102-106 см, Обхват талии 90-94 см, Рост 182-188 см","shipment_type":null,"size_system":"RUS","sku":"MP002XM0BAM4INXL","stock_quantity":1,"tax_vat":20,"title":"52"},{"brand_id":"1569","brand_size_system":"INT","brand_title":"XXL","id":"34340","is_universal":false,"primary_description":"Обхват шеи 43 см, Обхват груди 106-110 см, Обхват талии 94-98 см, Рост 182-188 см","shipment_type":null,"size_system":"RUS","sku":"MP002XM0BAM4INXXL","stock_quantity":4,"tax_vat":20,"title":"54"}],"sku_supplier":"z0142132920926900_L","subset_id":59,"yandex_plans":{"available":true,"minLimit":0,"plans":[{"constructor":"2","fee":{"description":"без переплат","isZeroFee":true,"maxValue":"0","minValue":"0"},"paymentWidget":{"later":{"amount":"90","description":"еще 3 платежа раз в 2 недели","numberOfPayments":3},"now":{"amount":"0","description":"сейчас"},"onDelivery":{"amount":"90","description":"при получении"}},"payments":[{"amount":"90.00","visualProperties":{"name":"при получении"}},{"amount":"90.00","visualProperties":{"name":"через 2 недели"}},{"amount":"90.00","visualProperties":{"name":""}},{"amount":"90.00","visualProperties":{"name":""}}],"termDescription":"на 2 месяца","termInMonths":2,"title":{"description":"90 ₽ × 4 платежа","numberOfPayments":4,"paymentAmount":"90"}},{"constructor":"4","fee":{"description":"переплата 0—7 ₽/мес","isZeroFee":false,"maxValue":"7","minValue":"0"},"paymentWidget":{"later":{"amount":"91","description":"еще 3 платежа раз в месяц","numberOfPayments":3},"now":{"amount":"0","description":"сейчас"},"onDelivery":{"amount":"91","description":"при получении"}},"payments":[{"amount":"91.00","visualProperties":{"name":"при получении"}},{"amount":"91.00","visualProperties":{"name":"через месяц"}},{"amount":"91.00","visualProperties":{"name":""}},{"amount":"88.00","visualProperties":{"name":""}}],"termDescription":"на 4 месяца","termInMonths":4,"title":{"description":"от 91 ₽ × 4 платежа","numberOfPayments":4,"paymentAmount":"91"}},{"constructor":"6","fee":{"description":"переплата 0—7 ₽/мес","isZeroFee":false,"maxValue":"7","minValue":"0"},"paymentWidget":{"later":{"amount":"61","description":"еще 5 платежей раз в месяц","numberOfPayments":5},"now":{"amount":"0","description":"сейчас"},"onDelivery":{"amount":"61","description":"при получении"}},"payments":[{"amount":"61.00","visualProperties":{"name":"при получении"}},{"amount":"61.00","visualProperties":{"name":"через месяц"}},{"amount":"61.00","visualProperties":{"name":""}},{"amount":"61.00","visualProperties":{"name":""}},{"amount":"61.00","visualProperties":{"name":""}},{"amount":"56.00","visualProperties":{"name":""}}],"termDescription":"на 6 месяцев","termInMonths":6,"title":{"description":"от 61 ₽ × 6 платежей","numberOfPayments":6,"paymentAmount":"61"}}]},"actions":[{"discount":40,"finished_at":"2025-01-14T23:59:59.000+03:00","id":"58924","promocode":"WINTERDEAL","started_at":"2025-01-14T00:00:00.000+03:00"}],"attributes":[{"key":"neckline_men","title":"Вырез/воротник","value":"круглый вырез"},{"key":"material_filling","title":"Состав, %","value":"Хлопок - 95%, Эластан - 5%"},{"key":"season_wear","title":"Сезон","value":"мульти"},{"key":"correspond_to_size","title":"Размер товара на модели","value":"M INT"},{"key":"length_with_size","title":"Длина","value":"66 см (M INT)"},{"key":"sleeve_length_with_size","title":"Длина рукава","value":"20 см (M INT)"},{"key":"model_parameters","title":"Параметры модели","value":"100-75-94"},{"key":"model_height_on_photo","title":"Рост модели на фото","value":"181 см"},{"key":"color_family","title":"Цвет","value":"синий"},{"key":"print","title":"Узор","value":"однотонный"},{"key":"production_country","title":"Страна производства","value":"Узбекистан"},{"key":"guarantee_period","title":"Гарантийный срок","value":"не установлен"},{"key":"sku","title":"Артикул","value":"MP002XM0BAM4"}],"average_rating":4.9,"badges":[{"text":"53","type":"discount","url":"/c/477/clothes-muzhskaya-odezhda/?is_sale=1"}],"best_category":{"gender_segment":"men","id":"2513","image_url":"https://a.lmcdn.ru/resize/cms/144x144/top_menu/subcategories/category_2513.jpg","seo_tail":"clothes-muz-futbolki-s-korotkim","size_table_id":"2116","title":"Футболки с коротким рукавом"},"best_price_info":{"action":{"discount":40,"discount_amount":239,"price":360,"promocode":"WINTERDEAL"},"type":"action"},"category_leaves":[2513,2512,477,4152,2,1],"category_type":"other","collection":"Осень-зима 2024/2025","colored_products":[],"colors":[{"id":"643","title":"синий"}],"counters":{"buy_per_day":0,"buy_per_week":0,"photoreviews":0,"questions":0,"reviews":17,"total_photos":0,"view_per_day":0,"view_per_week":0},"custom_badges":null,"custom_tags":null,"discount":53,"discount_lamoda_amount":700,"discount_lamoda_and_loyalty_and_action":72,"features":{"show_color":false,"show_rating":true,"show_size":false,"show_volume":false},"feedback_id":50,"fittings":{"is_predicted":false,"size":{"title":"Идет размер в размер","value":0}},"gallery":["/M/P/MP002XM0BAM4_24067552_1_v1_2x.jpg","/M/P/MP002XM0BAM4_24067553_2_v1_2x.jpg","/M/P/MP002XM0BAM4_24067554_3_v1_2x.jpg"],"gender":"men","has_looks_for_sku":true,"image_attributes":null,"is_buy_the_look_allowed":true,"is_in_stock":true,"is_sellable":true,"is_tryon":true,"long_attributes":[],"main_attributes":[{"name":"material_filling","title":"Состав","type":"text","value":"Хлопок - 95%, Эластан - 5%"},{"name":"color_family","title":"Цвет","type":"text","value":"Синий"},{"name":"correspond_to_size","title":"Размер на модели","type":"text","value":"M INT"},{"name":"model_parameters","title":"Параметры модели","type":"text","value":"100-75-94"}],"modals":[{"bubbles":true,"button":{"icon":"","icon_url":"https://a.lmcdn.ru/files/cms/product_page/component-m.svg","title":"Подробнее про посадку и детали"},"groups":[{"attributes":[{"name":"material_filling","title":"Состав","type":"text","value":"Хлопок - 95%, Эластан - 5%"}],"title":"Материал"},{"attributes":[{"name":"correspond_to_size","title":"Размер на модели","type":"text","value":"M INT"},{"name":"model_height_on_photo","title":"Рост модели","type":"text","value":"181"},{"name":"model_parameters","title":"Параметры модели","type":"text","value":"100-75-94"},{"name":"length_with_size","title":"Длина","type":"text","value":"66 см (M INT)"},{"name":"sleeve_length_with_size","title":"Длина рукава","type":"text","value":"20 см (M INT)"}],"title":"Размер и посадка"},{"attributes":[{"name":"color_family","title":"Цвет","type":"text","value":"Синий"},{"name":"print","title":"Узор","type":"text","value":"Однотонный"},{"name":"neckline_men","title":"Вырез и воротник","type":"text","value":"Круглый вырез"}],"title":"Детали"},{"attributes":[{"name":"production_country","title":"Страна производства","type":"text","value":"Узбекистан"},{"name":"guarantee_period","title":"Гарантийный срок","type":"text","value":"Не установлен"}],"title":"Дополнительная информация"}],"name":"ОстальнаяОдежда","title":"Подробности"}],"old_price":1299,"originality":[{"icon":"partnership","subtitle":"И привлекаем только сертифицированных продавцов","title":"Сотрудничаем с брендами напрямую"},{"icon":"checking","subtitle":"Документы, бирки, этикетки, комплектацию — всё, чтобы вы получили оригинальный товар","title":"Тщательно проверяем товары"},{"icon":"control","subtitle":"Проверяем упаковку и внешний вид товара со склада","title":"Контролируем каждую отправку"}],"photoreviews":null,"price":599,"prices":{"action":{"discount":{"active_to":"2025-01-14T23:59:59.000+03:00","amount":"239","amount_accumulated":"939","percent":40,"percent_accumulated":72,"promocode":"WINTERDEAL"},"price":"360"},"onsite":{"discount":{"amount":"700","amount_accumulated":"700","percent":53,"percent_accumulated":53},"price":"599"},"original":{"price":"1 299"}},"replacement_products":null,"reviews":{"items":[{"created_time":"2025-01-14T12:12:15.427+03:00","dislike_count":0,"fittings":{"size":{"title":"Немного маломерит","value":-1}},"id":"54735249","is_disliked":false,"is_liked":false,"is_user_verified":true,"like_count":0,"photos":null,"rating":5,"size":"MP002XM0BAM4INL","size_title":"50","text":"Соответствует описанию.","username":"Виталий","uuid":"99d81595-2e5e-41a3-bd2a-8a751bc28962"},{"created_time":"2025-01-13T18:44:02.595+03:00","dislike_count":0,"fittings":{"customer_size":{"value":"MP002XM0BAM4INL","title":"MP002XM0BAM4INL"},"size":{"title":"Идет размер в размер","value":0}},"id":"54719852","is_disliked":false,"is_liked":false,"is_user_verified":true,"like_count":0,"photos":null,"rating":5,"size":"MP002XM0BAM4INL","size_title":"50","text":"Хорошее качество. Села размер в  размер. Рекомендую к покупке.","username":"Галина","uuid":"e15b1076-2df3-4f50-9c14-434904e849a6"},{"created_time":"2024-12-27T14:38:10.751+03:00","dislike_count":0,"fittings":{},"id":"54363119","is_disliked":false,"is_liked":false,"is_user_verified":true,"like_count":0,"photos":null,"rating":5,"size":"MP002XM0BAM4INS","size_title":"46","text":"Хорошая футболка, не очень тонкая,  но слегка маломерит ","username":"Наталия","uuid":"8daa56a3-3499-4004-b4a3-8eb09304b412"},{"created_time":"2024-12-25T16:22:09.981+03:00","dislike_count":0,"fittings":{"size":{"title":"Идет размер в размер","value":0}},"id":"54321747","is_disliked":false,"is_liked":false,"is_user_verified":true,"like_count":0,"photos":null,"rating":5,"size":"MP002XM0BAM4INXXL","size_title":"54","text":"Качественная  футболка!","username":"Татьяна","uuid":"20a02be2-c0cc-4991-a86f-cc44703e3003"},{"created_time":"2024-12-22T11:45:19.286+03:00","dislike_count":0,"fittings":{},"id":"54245450","is_disliked":false,"is_liked":false,"is_user_verified":true,"like_count":0,"photos":null,"rating":5,"size":"MP002XM0BAM4INXXL","size_title":"54","text":"Хорошая футболка, для спортивной фигуры, плотная, идет размер в размер ","username":"Елена","uuid":"03bf2f5b-27cd-4486-9783-bbca7e5ba9ea"}],"sort":"date","sort_direction":"desc"},"seller":{"business_model":"lamoda","delivery_profile":"LM","id":"1","is_lamoda":true,"is_tryon":true,"title":"Lamoda"},"seo_title":"Футболка Zolla - цвет: синий, коллекция: мульти. БЕСПЛАТНАЯ доставка по России!","size_recommendations":{"footty":{"can_recommend":false,"has_measurements":false}},"size_table_url":"https://m.lamoda.ru/landing/size-tab/size-table/?is_webview=1\u0026sv=mob\u0026size_scale_code=CL_M_INT\u0026brand_id=31272\u0026subset_id=59","sku":"MP002XM0BAM4","thumbnail":"/M/P/MP002XM0BAM4_24067552_1_v1_2x.jpg","title":"Футболка","type":"Clothes"},"breadcrumbs":[{"id":4152,"url":"/c/4152/default-men/","name":"Мужчинам","seo_tail":"default-men"},{"id":477,"url":"/c/477/clothes-muzhskaya-odezhda/","name":"Одежда","seo_tail":"clothes-muzhskaya-odezhda"},{"id":2512,"url":"/c/2512/clothes-muzhskie-futbolki/","name":"Футболки и поло","seo_tail":"clothes-muzhskie-futbolki"},{"id":2513,"url":"/c/2513/clothes-muz-futbolki-s-korotkim/","name":"Футболки с коротким рукавом","seo_tail":"clothes-muz-futbolki-s-korotkim"}]},
+        settings: {"country":"ru","currency":"₽","currency_iso_code":"RUB","debug_mode":false,"git_tag":"25.01.13","media_cdn":"//a.lmcdn.ru/","platform":"site","price_precision":0,"static_path":"//a.lmcdn.ru/static/25.01.13/","static_path_brand":"//a.lmcdn.ru/pi/brands/","static_path_django":"//a.lmcdn.ru/django/d/ru/25.01.13/","static_path_tilda":"//a.lmcdn.ru/tilda/files/cms/","static_permanent":"//a.lmcdn.ru/static/permanent/","lstat_public_host":"z.lmcdn.ru"},
+        request: {
+          is_webview: false,
+          lid: "A002406499878667BB2991230237B671",
+          lid24: null,
+          path: "/p/mp002xm0bam4/clothes-zolla-futbolka/",
+          query: {},
+          query_string: "",
+          split_path: ["p","mp002xm0bam4","clothes-zolla-futbolka"],
+          url: "/p/mp002xm0bam4/clothes-zolla-futbolka/",
+          user_agent: "python-requests/2.32.3",
+          timestamp: 1736869785,
+        },
+        tcpInfo: "19653, 42288, 21144",
+      },
+      serverRendered: false,
+    },
+  };
+
+  
+  LMDA.pageState = __NUXT__;
+</script><script crossorigin="anonymous" type="module" src="//a.lmcdn.ru/static/25.01.13/main.js"></script><!-- ru_hotfix_footer --><script>
+if (document.location.pathname.indexOf('lamoda_evolution') != '-1'){document.getElementsByClassName('unipop__container')[0].style.display = 'none';}
+</script><script type="application/ld+json">
+  [
+    {
+      "@context": "http://www.schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": "1",
+          "name": "Главная",
+          "item": "https://www.lamoda.ru"
+        },{
+              "@type": "ListItem",
+              "position": "2",
+              "name": "&quot;Мужчинам&quot;",
+              "item": "https://www.lamoda.ru/c/4152/default-men/"
+            },{
+              "@type": "ListItem",
+              "position": "3",
+              "name": "&quot;Одежда&quot;",
+              "item": "https://www.lamoda.ru/c/477/clothes-muzhskaya-odezhda/"
+            },{
+              "@type": "ListItem",
+              "position": "4",
+              "name": "&quot;Футболки и поло&quot;",
+              "item": "https://www.lamoda.ru/c/2512/clothes-muzhskie-futbolki/"
+            },{
+              "@type": "ListItem",
+              "position": "5",
+              "name": "&quot;Футболки с коротким рукавом&quot;",
+              "item": "https://www.lamoda.ru/c/2513/clothes-muz-futbolki-s-korotkim/"
+            }
+      ]
+    }
+  ]
+</script><script type="application/ld+json">
+  [{
+    "@context": "http://www.schema.org",
+    "@type": "Product",
+    "brand": {
+      "@type": "Brand",
+      "name": "&quot;Zolla&quot;"
+    },
+    "name": "&quot;Zolla&quot; &quot;Футболка&quot; &quot;&quot;",
+    "image": [
+      "//a.lmcdn.ru/product/M/P/MP002XM0BAM4_24067552_1_v1_2x.jpg",
+      "//a.lmcdn.ru/product/M/P/MP002XM0BAM4_24067553_2_v1_2x.jpg",
+      "//a.lmcdn.ru/product/M/P/MP002XM0BAM4_24067554_3_v1_2x.jpg"
+      ],
+    "description": "&quot;&quot;",
+    "category": "&quot;Футболки с коротким рукавом&quot;",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "RUB",
+      "price": "599.000000",
+      "url": "/p/mp002xm0bam4/clothes-zolla-futbolka/",
+      "priceValidUntil": "2025-01-14 15:49:45.880486396",
+      "availability": "http://schema.org/InStock",
+      "itemCondition": "http://schema.org/NewCondition",
+      "sku": "MP002XM0BAM4"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "17"
+    },
+    "sku": "MP002XM0BAM4"
+  }]
+</script></body></html>
+
+
